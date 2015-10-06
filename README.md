@@ -1,4 +1,6 @@
 #Ruby CalDAV library for iCloud Caldav
+
+[![Join the chat at https://gitter.im/n8vision/caldav-icloud](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/n8vision/caldav-icloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **caldav-icloud is based on agilastic/agcaldav, modified to work for Apple's iCloud**
 
 **caldav-icloud is still under development and is not finished...**
